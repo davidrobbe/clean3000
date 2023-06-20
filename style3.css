@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    background-color: #5cbc44;
+}
+
+
+.logo{
+    background-color: #3d3d33;
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
+    color: #3d3d33;
+    font-size: 5rem;
+}
+
